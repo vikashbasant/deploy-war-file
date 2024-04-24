@@ -1,4 +1,4 @@
-package com.kash.deploywarfile.controller;
+package com.kash.controller;
 
 
 import org.springframework.stereotype.Controller;
@@ -16,6 +16,7 @@ public class PageController {
     public String aboutPage() {
         return "about";
     }
+
 
 
 }
